@@ -1,6 +1,6 @@
 {
 	"name": "kickstart-sveltekit",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"type": "module",
 	"private": false,
 	"repository": {
@@ -41,7 +41,7 @@
 		"vite": "^7.1.8"
 	},
 	"dependencies": {
-		"@contentstack/delivery-sdk": "^4.10.0",
+		"@contentstack/delivery-sdk": "^4.10.5",
 		"@contentstack/live-preview-utils": "^4.0.2",
 		"@timbenniks/contentstack-endpoints": "^1.0.16"
 	}
