@@ -1,6 +1,6 @@
 {
 	"name": "kickstart-sveltekit",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"type": "module",
 	"private": false,
 	"repository": {
@@ -21,23 +21,23 @@
 		"lint": "prettier --check . && eslint ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-node": "^5.5.0",
-		"@sveltejs/kit": "^2.49.4",
+		"@sveltejs/adapter-node": "^5.5.4",
+		"@sveltejs/kit": "^2.49.5",
 		"@sveltejs/vite-plugin-svelte": "^6.2.4",
 		"@tailwindcss/postcss": "^4.1.18",
 		"@types/eslint": "^9.6.1",
-		"eslint": "^9.39.2",
+		"eslint": "^9.39.4",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-svelte": "^3.14.0",
 		"globals": "^17.0.0",
 		"prettier": "^3.7.4",
 		"prettier-plugin-svelte": "^3.4.1",
 		"prettier-plugin-tailwindcss": "^0.7.2",
-		"svelte": "^5.46.3",
-		"svelte-check": "^4.3.5",
+		"svelte": "^5.46.4",
+		"svelte-check": "^4.3.6",
 		"tailwindcss": "^4.1.18",
 		"typescript": "^5.9.3",
-		"typescript-eslint": "^8.53.0",
+		"typescript-eslint": "^8.53.1",
 		"vite": "^7.3.1"
 	},
 	"dependencies": {
