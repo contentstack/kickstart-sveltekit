@@ -50,6 +50,7 @@
 		"dompurify": "^3.4.0",
 		"follow-redirects": "^1.16.0",
 		"lodash": "^4.18.1",
-		"lodash-es": "^4.18.1"
+		"lodash-es": "^4.18.1",
+		"uuid": "^14.0.0"
 	}
 }
