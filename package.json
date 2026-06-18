@@ -43,7 +43,7 @@
 	"dependencies": {
 		"@contentstack/delivery-sdk": "^5.2.1",
 		"@contentstack/live-preview-utils": "^4.4.4",
-		"@timbenniks/contentstack-endpoints": "^2.1.0"
+		"@contentstack/utils": "^1.9.1"
 	},
 	"overrides": {
 		"axios": "^1.18.0",
