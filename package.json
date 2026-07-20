@@ -41,7 +41,7 @@
 		"vite": "^7.3.5"
 	},
 	"dependencies": {
-		"@contentstack/delivery-sdk": "^5.2.1",
+		"@contentstack/delivery-sdk": "^5.2.2",
 		"@contentstack/live-preview-utils": "^4.4.4",
 		"@contentstack/utils": "^1.9.1"
 	},
